@@ -9,5 +9,8 @@ Program automatically detects the column names and displays them to the user. Us
 ## 2. Requirements
 
 Tested on Python 3.8.5 with following libraries:
+
+```
 pandas==2.0.3
 openpyxl==3.1.5
+```
